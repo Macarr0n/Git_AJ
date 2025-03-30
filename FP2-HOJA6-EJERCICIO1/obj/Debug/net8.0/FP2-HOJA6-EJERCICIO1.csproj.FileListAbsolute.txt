@@ -27,3 +27,11 @@ D:\Universidad\MAP\GIT_AJ\FP2-HOJA6-EJERCICIO1\FP2-HOJA6-EJERCICIO1\obj\Debug\ne
 D:\Universidad\MAP\GIT_AJ\FP2-HOJA6-EJERCICIO1\FP2-HOJA6-EJERCICIO1\obj\Debug\net8.0\FP2-HOJA6-EJERCICIO1.genruntimeconfig.cache
 D:\Universidad\MAP\GIT_AJ\FP2-HOJA6-EJERCICIO1\FP2-HOJA6-EJERCICIO1\obj\Debug\net8.0\ref\FP2-HOJA6-EJERCICIO1.dll
 D:\Universidad\MAP\GIT_AJ\FP2-HOJA6-EJERCICIO1\FP2-HOJA6-EJERCICIO1\obj\Debug\net8.0\FP2-HOJA6-EJERCICIO1.sourcelink.json
+C:\Users\Usuario\source\Práctica - MAP\Git_AJ\Git_AJ\FP2-HOJA6-EJERCICIO1\obj\Debug\net8.0\FP2-HOJA6-EJERCICIO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\Práctica - MAP\Git_AJ\Git_AJ\FP2-HOJA6-EJERCICIO1\obj\Debug\net8.0\FP2-HOJA6-EJERCICIO1.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\Práctica - MAP\Git_AJ\Git_AJ\FP2-HOJA6-EJERCICIO1\obj\Debug\net8.0\FP2-HOJA6-EJERCICIO1.AssemblyInfo.cs
+C:\Users\Usuario\source\Práctica - MAP\Git_AJ\Git_AJ\FP2-HOJA6-EJERCICIO1\obj\Debug\net8.0\FP2-HOJA6-EJERCICIO1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\Práctica - MAP\Git_AJ\Git_AJ\FP2-HOJA6-EJERCICIO1\obj\Debug\net8.0\FP2-HOJA6-EJERCICIO1.sourcelink.json
+C:\Users\Usuario\source\Práctica - MAP\Git_AJ\Git_AJ\FP2-HOJA6-EJERCICIO1\obj\Debug\net8.0\FP2-HOJA6-EJERCICIO1.dll
+C:\Users\Usuario\source\Práctica - MAP\Git_AJ\Git_AJ\FP2-HOJA6-EJERCICIO1\obj\Debug\net8.0\refint\FP2-HOJA6-EJERCICIO1.dll
+C:\Users\Usuario\source\Práctica - MAP\Git_AJ\Git_AJ\FP2-HOJA6-EJERCICIO1\obj\Debug\net8.0\FP2-HOJA6-EJERCICIO1.pdb
