@@ -17,6 +17,8 @@ class Program
         l.InsertaPri(6);
         l.InsertaPri(8);
         l.InsertaPri(4);
+        l.InsertaPri(9);
+        l.InsertaPri(1);
 
         Console.WriteLine($"List: {l}");
         bool cont = true;
