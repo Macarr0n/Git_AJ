@@ -211,14 +211,14 @@ namespace Listas{
             {
                 if (pri.dato == e)
                 {
-                    ApariElem = 1;
+                    ApariElem = 2;
                 }                           
 
                 while (aux.sig != null)
                 {
                     if (aux.sig.dato == e)
                     {
-                        ApariElem++;
+                        ApariElem = ApariElem + 2;
                     }
                     aux = aux.sig;
                 }
