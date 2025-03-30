@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FP2-HOJA6-EJERCICIO1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b29fbbae8d475fc8c02cb39728a26df2ca89a470")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0aad23cb1abbc6039af4bce63f9b40e5fb0a42f")]
 [assembly: System.Reflection.AssemblyProductAttribute("FP2-HOJA6-EJERCICIO1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FP2-HOJA6-EJERCICIO1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
